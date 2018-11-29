@@ -1,7 +1,3 @@
-Mining Pools
---------
-[Mining Pools](http://cryptoducats.com)
-
 node-cryptonote-pool
 ====================
 
@@ -79,6 +75,11 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * https://minexmr.com
 
 A pool must be operational for 6 months or more before it can be added to this list.
+
+Mining Pool List
+--------
+[Mining Pools](http://cryptoducats.com)
+
 
 
 Usage
