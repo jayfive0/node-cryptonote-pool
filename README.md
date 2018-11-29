@@ -1,6 +1,6 @@
-## This repo is looking for maintainers! Please reach out if interested.
+Mining Pools
 --------
-
+[Mining Pools](http://cryptoducats.com)
 
 node-cryptonote-pool
 ====================
